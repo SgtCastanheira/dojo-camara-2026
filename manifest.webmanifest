@@ -1,0 +1,15 @@
+{
+  "name": "Dojô da Câmara — estudo para o concurso",
+  "short_name": "Dojô",
+  "description": "Estudo para o concurso da Câmara Municipal de Cuiabá: lições, cartões, questões, áudios e simulados.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#b5372a",
+  "icons": [
+    { "src": "icons/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

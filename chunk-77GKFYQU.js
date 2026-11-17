@@ -1,0 +1,1 @@
+function n(a){let r=[...a];for(let t=r.length-1;t>0;t--){let e=Math.floor(Math.random()*(t+1));[r[t],r[e]]=[r[e],r[t]]}return r}function o(a){return a.normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase().replace(/[^a-z0-9/%]+/g," ").trim()}export{n as a,o as b};

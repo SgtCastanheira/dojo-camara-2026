@@ -1,0 +1,495 @@
+{
+ "gerado": "2026-11-17T05:14:42.581Z",
+ "videos": [
+  {
+   "id": "ti-fundamentos",
+   "titulo": "Fundamentos, Sistemas Operacionais e Suporte",
+   "curto": "TI: Fundamentos e SO",
+   "cor": "#4a5568",
+   "selo": "基",
+   "arquivo": "ti-fundamentos.mp4",
+   "capa": "ti-fundamentos.png",
+   "segundos": 652,
+   "bytes": 7312827,
+   "capitulos": [
+    {
+     "titulo": "Abertura",
+     "inicio": 0
+    },
+    {
+     "titulo": "Arquitetura de Von Neumann",
+     "inicio": 29
+    },
+    {
+     "titulo": "Dentro da CPU",
+     "inicio": 78
+    },
+    {
+     "titulo": "Hierarquia de memória",
+     "inicio": 126
+    },
+    {
+     "titulo": "Bits, bytes e bases",
+     "inicio": 172
+    },
+    {
+     "titulo": "Sistemas de informação e virtualização",
+     "inicio": 223
+    },
+    {
+     "titulo": "Windows: administração",
+     "inicio": 269
+    },
+    {
+     "titulo": "Linux: o essencial",
+     "inicio": 315
+    },
+    {
+     "titulo": "Permissões no Linux: chmod",
+     "inicio": 369
+    },
+    {
+     "titulo": "Agendamento com cron",
+     "inicio": 419
+    },
+    {
+     "titulo": "Tipos de backup",
+     "inicio": 462
+    },
+    {
+     "titulo": "Regra 3-2-1, RPO e RTO",
+     "inicio": 509
+    },
+    {
+     "titulo": "Suporte técnico e ITIL",
+     "inicio": 560
+    },
+    {
+     "titulo": "Resumo para a prova",
+     "inicio": 604
+    }
+   ],
+   "hash": "6ce40678bc38"
+  },
+  {
+   "id": "ti-programacao",
+   "titulo": "Programação, Estruturas de Dados, Web, APIs e DevOps",
+   "curto": "TI: Programação e Web",
+   "cor": "#0e7490",
+   "selo": "程",
+   "arquivo": "ti-programacao.mp4",
+   "capa": "ti-programacao.png",
+   "segundos": 611,
+   "bytes": 6789231,
+   "capitulos": [
+    {
+     "titulo": "Abertura",
+     "inicio": 0
+    },
+    {
+     "titulo": "Lógica de programação",
+     "inicio": 34
+    },
+    {
+     "titulo": "Complexidade: a notação O grande",
+     "inicio": 83
+    },
+    {
+     "titulo": "Estruturas de dados",
+     "inicio": 129
+    },
+    {
+     "titulo": "Árvores binárias de busca",
+     "inicio": 173
+    },
+    {
+     "titulo": "Orientação a objetos",
+     "inicio": 215
+    },
+    {
+     "titulo": "HTML e CSS",
+     "inicio": 262
+    },
+    {
+     "titulo": "JavaScript essencial",
+     "inicio": 308
+    },
+    {
+     "titulo": "HTTP e métodos REST",
+     "inicio": 348
+    },
+    {
+     "titulo": "Códigos de status HTTP",
+     "inicio": 393
+    },
+    {
+     "titulo": "SOAP, segurança de APIs e documentação",
+     "inicio": 440
+    },
+    {
+     "titulo": "Git: controle de versão",
+     "inicio": 478
+    },
+    {
+     "titulo": "CI/CD e contêineres",
+     "inicio": 521
+    },
+    {
+     "titulo": "Resumo para a prova",
+     "inicio": 561
+    }
+   ],
+   "hash": "dc86556232c9"
+  },
+  {
+   "id": "ti-engsoft",
+   "titulo": "Engenharia de Software",
+   "curto": "TI: Engenharia de Software",
+   "cor": "#3f6212",
+   "selo": "工",
+   "arquivo": "ti-engsoft.mp4",
+   "capa": "ti-engsoft.png",
+   "segundos": 662,
+   "bytes": 7515045,
+   "capitulos": [
+    {
+     "titulo": "Abertura",
+     "inicio": 0
+    },
+    {
+     "titulo": "Modelo cascata e modelo V",
+     "inicio": 28
+    },
+    {
+     "titulo": "Incremental, espiral e RUP",
+     "inicio": 66
+    },
+    {
+     "titulo": "Requisitos funcionais e não funcionais",
+     "inicio": 110
+    },
+    {
+     "titulo": "Histórias de usuário e priorização",
+     "inicio": 158
+    },
+    {
+     "titulo": "UML: os diagramas",
+     "inicio": 195
+    },
+    {
+     "titulo": "Casos de uso e classes",
+     "inicio": 242
+    },
+    {
+     "titulo": "Testes: níveis",
+     "inicio": 285
+    },
+    {
+     "titulo": "Testes: técnicas",
+     "inicio": 326
+    },
+    {
+     "titulo": "TDD e manutenção",
+     "inicio": 375
+    },
+    {
+     "titulo": "Manifesto Ágil",
+     "inicio": 421
+    },
+    {
+     "titulo": "Scrum: papéis, eventos e artefatos",
+     "inicio": 460
+    },
+    {
+     "titulo": "Kanban e XP",
+     "inicio": 507
+    },
+    {
+     "titulo": "Caso prático: o sistema legislativo",
+     "inicio": 547
+    },
+    {
+     "titulo": "Resumo para a prova",
+     "inicio": 610
+    }
+   ],
+   "hash": "f5d4bd58f9e6"
+  },
+  {
+   "id": "ti-banco",
+   "titulo": "Banco de Dados, SQL e Business Intelligence",
+   "curto": "TI: Banco de Dados e BI",
+   "cor": "#1e40af",
+   "selo": "庫",
+   "arquivo": "ti-banco.mp4",
+   "capa": "ti-banco.png",
+   "segundos": 633,
+   "bytes": 7117156,
+   "capitulos": [
+    {
+     "titulo": "Abertura",
+     "inicio": 0
+    },
+    {
+     "titulo": "Modelagem: o MER",
+     "inicio": 30
+    },
+    {
+     "titulo": "Chaves e integridade",
+     "inicio": 78
+    },
+    {
+     "titulo": "Normalização",
+     "inicio": 122
+    },
+    {
+     "titulo": "SQL: as famílias de comandos",
+     "inicio": 170
+    },
+    {
+     "titulo": "Consultas: WHERE, GROUP BY e HAVING",
+     "inicio": 217
+    },
+    {
+     "titulo": "Junções (JOIN)",
+     "inicio": 265
+    },
+    {
+     "titulo": "Transações: ACID",
+     "inicio": 311
+    },
+    {
+     "titulo": "Níveis de isolamento",
+     "inicio": 351
+    },
+    {
+     "titulo": "Administração e backup de banco",
+     "inicio": 388
+    },
+    {
+     "titulo": "OLTP, OLAP e data warehouse",
+     "inicio": 433
+    },
+    {
+     "titulo": "Modelo dimensional e operações OLAP",
+     "inicio": 474
+    },
+    {
+     "titulo": "Pegadinhas de banco que mais caem",
+     "inicio": 519
+    },
+    {
+     "titulo": "Resumo para a prova",
+     "inicio": 585
+    }
+   ],
+   "hash": "df1fde0f2419"
+  },
+  {
+   "id": "ti-redes",
+   "titulo": "Redes de Computadores",
+   "curto": "TI: Redes",
+   "cor": "#c2410c",
+   "selo": "網",
+   "arquivo": "ti-redes.mp4",
+   "capa": "ti-redes.png",
+   "segundos": 610,
+   "bytes": 6919915,
+   "capitulos": [
+    {
+     "titulo": "Abertura",
+     "inicio": 0
+    },
+    {
+     "titulo": "Modelo OSI: 7 camadas",
+     "inicio": 28
+    },
+    {
+     "titulo": "Modelo TCP/IP",
+     "inicio": 85
+    },
+    {
+     "titulo": "TCP x UDP",
+     "inicio": 122
+    },
+    {
+     "titulo": "Portas que mais caem",
+     "inicio": 165
+    },
+    {
+     "titulo": "Endereço IP e máscara",
+     "inicio": 230
+    },
+    {
+     "titulo": "Sub-redes sem sofrimento",
+     "inicio": 286
+    },
+    {
+     "titulo": "Exemplo de sub-rede",
+     "inicio": 342
+    },
+    {
+     "titulo": "IPv6, DHCP, NAT e ARP",
+     "inicio": 382
+    },
+    {
+     "titulo": "Equipamentos e topologias",
+     "inicio": 424
+    },
+    {
+     "titulo": "Cabeamento estruturado e Wi-Fi",
+     "inicio": 463
+    },
+    {
+     "titulo": "Serviços de rede",
+     "inicio": 510
+    },
+    {
+     "titulo": "Resumo para a prova",
+     "inicio": 559
+    }
+   ],
+   "hash": "d6bb5c2a5b7e"
+  },
+  {
+   "id": "ti-seguranca",
+   "titulo": "Segurança: Criptografia, Acessos, Ataques e Incidentes",
+   "curto": "TI: Segurança técnica",
+   "cor": "#be123c",
+   "selo": "鍵",
+   "arquivo": "ti-seguranca.mp4",
+   "capa": "ti-seguranca.png",
+   "segundos": 611,
+   "bytes": 6856752,
+   "capitulos": [
+    {
+     "titulo": "Abertura",
+     "inicio": 0
+    },
+    {
+     "titulo": "Os pilares da segurança",
+     "inicio": 32
+    },
+    {
+     "titulo": "Criptografia simétrica",
+     "inicio": 76
+    },
+    {
+     "titulo": "Criptografia assimétrica",
+     "inicio": 111
+    },
+    {
+     "titulo": "Hash: a impressão digital do arquivo",
+     "inicio": 154
+    },
+    {
+     "titulo": "Assinatura digital",
+     "inicio": 195
+    },
+    {
+     "titulo": "Certificado digital e ICP-Brasil",
+     "inicio": 235
+    },
+    {
+     "titulo": "Controle de acesso",
+     "inicio": 282
+    },
+    {
+     "titulo": "Firewall, IDS, IPS e DMZ",
+     "inicio": 328
+    },
+    {
+     "titulo": "Malware",
+     "inicio": 374
+    },
+    {
+     "titulo": "Ataques mais cobrados",
+     "inicio": 415
+    },
+    {
+     "titulo": "Vulnerabilidades e testes de intrusão",
+     "inicio": 461
+    },
+    {
+     "titulo": "Resposta a incidentes",
+     "inicio": 511
+    },
+    {
+     "titulo": "Resumo para a prova",
+     "inicio": 559
+    }
+   ],
+   "hash": "ae375af64353"
+  },
+  {
+   "id": "ti-governanca",
+   "titulo": "Governança, Gestão de TI e Contratações de TI",
+   "curto": "TI: Governança e Contratações",
+   "cor": "#854d0e",
+   "selo": "治",
+   "arquivo": "ti-governanca.mp4",
+   "capa": "ti-governanca.png",
+   "segundos": 623,
+   "bytes": 7044203,
+   "capitulos": [
+    {
+     "titulo": "Abertura",
+     "inicio": 0
+    },
+    {
+     "titulo": "Governança x gestão",
+     "inicio": 32
+    },
+    {
+     "titulo": "COBIT 2019",
+     "inicio": 71
+    },
+    {
+     "titulo": "Planejamento estratégico e SWOT",
+     "inicio": 114
+    },
+    {
+     "titulo": "PDTI: Plano Diretor de TI",
+     "inicio": 157
+    },
+    {
+     "titulo": "ITIL 4: conceitos",
+     "inicio": 199
+    },
+    {
+     "titulo": "ITIL 4: princípios e práticas",
+     "inicio": 245
+    },
+    {
+     "titulo": "Gestão de projetos",
+     "inicio": 288
+    },
+    {
+     "titulo": "Riscos e indicadores",
+     "inicio": 336
+    },
+    {
+     "titulo": "Contratação de TI: as três fases",
+     "inicio": 381
+    },
+    {
+     "titulo": "Planejamento e seleção",
+     "inicio": 415
+    },
+    {
+     "titulo": "Gestão do contrato de TI",
+     "inicio": 463
+    },
+    {
+     "titulo": "Caso prático na Câmara",
+     "inicio": 511
+    },
+    {
+     "titulo": "Resumo para a prova",
+     "inicio": 574
+    }
+   ],
+   "hash": "adc0840a2d64"
+  }
+ ]
+}

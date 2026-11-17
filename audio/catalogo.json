@@ -1,0 +1,1647 @@
+{
+ "gerado": "2026-11-17T03:29:54.294Z",
+ "materias": [
+  {
+   "id": "regimento",
+   "nome": "Regimento Interno da Câmara Municipal de Cuiabá",
+   "curto": "Regimento Interno",
+   "cor": "#b5372a",
+   "selo": "議",
+   "zip": "zip/regimento.zip",
+   "zipBytes": 18239721,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — Regimento Interno",
+     "tipo": "podcast",
+     "arquivo": "regimento/01-podcast.mp3",
+     "segundos": 1249,
+     "bytes": 9990896,
+     "hash": "0f59f6f49294"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — Regimento Interno",
+     "tipo": "relampago",
+     "arquivo": "regimento/02-relampago.mp3",
+     "segundos": 315,
+     "bytes": 2520502,
+     "hash": "e5d732c882b2"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — Regimento Interno",
+     "tipo": "macetes",
+     "arquivo": "regimento/03-macetes.mp3",
+     "segundos": 165,
+     "bytes": 1323676,
+     "hash": "e94db5a5c653"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Sede e as 7 funções da Câmara",
+     "tipo": "aula",
+     "licao": "reg-funcoes",
+     "arquivo": "regimento/04-aula-01.mp3",
+     "segundos": 122,
+     "bytes": 980323,
+     "hash": "e41407351423"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Legislatura, posse e sessões legislativas",
+     "tipo": "aula",
+     "licao": "reg-legislatura",
+     "arquivo": "regimento/05-aula-02.mp3",
+     "segundos": 113,
+     "bytes": 907389,
+     "hash": "4ba7246623ac"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Tipos de sessão e quórum de abertura",
+     "tipo": "aula",
+     "licao": "reg-sessoes-tipos",
+     "arquivo": "regimento/06-aula-03.mp3",
+     "segundos": 103,
+     "bytes": 822543,
+     "hash": "3729a2d93751"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Mesa Diretora",
+     "tipo": "aula",
+     "licao": "reg-mesa",
+     "arquivo": "regimento/07-aula-04.mp3",
+     "segundos": 109,
+     "bytes": 872907,
+     "hash": "a43c0773caf4"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Competências do Presidente e do 1º Secretário",
+     "tipo": "aula",
+     "licao": "reg-presidente",
+     "arquivo": "regimento/08-aula-05.mp3",
+     "segundos": 94,
+     "bytes": 753789,
+     "hash": "159ab6f0071c"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Comissões",
+     "tipo": "aula",
+     "licao": "reg-comissoes",
+     "arquivo": "regimento/09-aula-06.mp3",
+     "segundos": 155,
+     "bytes": 1244264,
+     "hash": "e3a6fa79991c"
+    },
+    {
+     "id": "aula-07",
+     "titulo": "Aula 7 — Vereadores: decoro, licenças e suplentes",
+     "tipo": "aula",
+     "licao": "reg-vereadores",
+     "arquivo": "regimento/10-aula-07.mp3",
+     "segundos": 98,
+     "bytes": 786181,
+     "hash": "66918c6da708"
+    },
+    {
+     "id": "aula-08",
+     "titulo": "Aula 8 — Proposições e emendas",
+     "tipo": "aula",
+     "licao": "reg-proposicoes",
+     "arquivo": "regimento/11-aula-08.mp3",
+     "segundos": 105,
+     "bytes": 837381,
+     "hash": "fe8bac0d7b64"
+    },
+    {
+     "id": "aula-09",
+     "titulo": "Aula 9 — Urgência, discussões e prejudicialidade",
+     "tipo": "aula",
+     "licao": "reg-urgencia",
+     "arquivo": "regimento/12-aula-09.mp3",
+     "segundos": 88,
+     "bytes": 703425,
+     "hash": "0704e9d38d92"
+    },
+    {
+     "id": "aula-10",
+     "titulo": "Aula 10 — Quóruns e processos de votação",
+     "tipo": "aula",
+     "licao": "reg-votacao",
+     "arquivo": "regimento/13-aula-10.mp3",
+     "segundos": 114,
+     "bytes": 914076,
+     "hash": "452f7bd632af"
+    },
+    {
+     "id": "aula-11",
+     "titulo": "Aula 11 — Participação popular e reforma do Regimento",
+     "tipo": "aula",
+     "licao": "reg-participacao",
+     "arquivo": "regimento/14-aula-11.mp3",
+     "segundos": 53,
+     "bytes": 424646,
+     "hash": "65f03149b8db"
+    }
+   ]
+  },
+  {
+   "id": "lei-organica",
+   "nome": "Lei Orgânica do Município de Cuiabá",
+   "curto": "Lei Orgânica",
+   "cor": "#9a6b12",
+   "selo": "法",
+   "zip": "zip/lei-organica.zip",
+   "zipBytes": 13317183,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — Lei Orgânica",
+     "tipo": "podcast",
+     "arquivo": "lei-organica/01-podcast.mp3",
+     "segundos": 928,
+     "bytes": 7427134,
+     "hash": "18f1d2605238"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — Lei Orgânica",
+     "tipo": "relampago",
+     "arquivo": "lei-organica/02-relampago.mp3",
+     "segundos": 233,
+     "bytes": 1863262,
+     "hash": "e8795b7f5244"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — Lei Orgânica",
+     "tipo": "macetes",
+     "arquivo": "lei-organica/03-macetes.mp3",
+     "segundos": 111,
+     "bytes": 887954,
+     "hash": "6f5e6583f238"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — O Município e suas competências",
+     "tipo": "aula",
+     "licao": "lom-municipio",
+     "arquivo": "lei-organica/04-aula-01.mp3",
+     "segundos": 102,
+     "bytes": 819826,
+     "hash": "9bbb264f1c29"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Câmara Municipal na Lei Orgânica",
+     "tipo": "aula",
+     "licao": "lom-camara",
+     "arquivo": "lei-organica/05-aula-02.mp3",
+     "segundos": 132,
+     "bytes": 1053884,
+     "hash": "1577caefd3ec"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Posse, Mesa e Presidente da Câmara",
+     "tipo": "aula",
+     "licao": "lom-mesa",
+     "arquivo": "lei-organica/06-aula-03.mp3",
+     "segundos": 82,
+     "bytes": 659121,
+     "hash": "5568d5103094"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Vereadores: imunidade, vedações e perda do mandato",
+     "tipo": "aula",
+     "licao": "lom-vereadores",
+     "arquivo": "lei-organica/07-aula-04.mp3",
+     "segundos": 130,
+     "bytes": 1039882,
+     "hash": "622d5f044244"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Processo legislativo municipal",
+     "tipo": "aula",
+     "licao": "lom-processo",
+     "arquivo": "lei-organica/08-aula-05.mp3",
+     "segundos": 159,
+     "bytes": 1272476,
+     "hash": "25d0aebea78f"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Prefeito e Vice-Prefeito",
+     "tipo": "aula",
+     "licao": "lom-prefeito",
+     "arquivo": "lei-organica/09-aula-06.mp3",
+     "segundos": 115,
+     "bytes": 924525,
+     "hash": "4595b139db01"
+    },
+    {
+     "id": "aula-07",
+     "titulo": "Aula 7 — Administração pública e servidores",
+     "tipo": "aula",
+     "licao": "lom-administracao",
+     "arquivo": "lei-organica/10-aula-07.mp3",
+     "segundos": 111,
+     "bytes": 888999,
+     "hash": "c66de4de8587"
+    }
+   ]
+  },
+  {
+   "id": "estatuto",
+   "nome": "Estatuto dos Servidores Públicos de Cuiabá",
+   "curto": "Estatuto (LC 093)",
+   "cor": "#2f5f9e",
+   "selo": "仕",
+   "zip": "zip/estatuto.zip",
+   "zipBytes": 13746496,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — Estatuto (LC 093)",
+     "tipo": "podcast",
+     "arquivo": "estatuto/01-podcast.mp3",
+     "segundos": 944,
+     "bytes": 7553567,
+     "hash": "e44706ee8c36"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — Estatuto (LC 093)",
+     "tipo": "relampago",
+     "arquivo": "estatuto/02-relampago.mp3",
+     "segundos": 316,
+     "bytes": 2528235,
+     "hash": "6b2a6b40bcef"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — Estatuto (LC 093)",
+     "tipo": "macetes",
+     "arquivo": "estatuto/03-macetes.mp3",
+     "segundos": 128,
+     "bytes": 1024835,
+     "hash": "a318d0250f61"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Requisitos e formas de provimento",
+     "tipo": "aula",
+     "licao": "est-provimento",
+     "arquivo": "estatuto/04-aula-01.mp3",
+     "segundos": 86,
+     "bytes": 686080,
+     "hash": "2933da268359"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Posse, exercício e jornada",
+     "tipo": "aula",
+     "licao": "est-posse",
+     "arquivo": "estatuto/05-aula-02.mp3",
+     "segundos": 74,
+     "bytes": 589113,
+     "hash": "23faaea89dca"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Estágio probatório e estabilidade",
+     "tipo": "aula",
+     "licao": "est-estagio",
+     "arquivo": "estatuto/06-aula-03.mp3",
+     "segundos": 61,
+     "bytes": 485041,
+     "hash": "e135a53f0b23"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Readaptação, reversão, reintegração, recondução e aproveitamento",
+     "tipo": "aula",
+     "licao": "est-formas",
+     "arquivo": "estatuto/07-aula-04.mp3",
+     "segundos": 83,
+     "bytes": 662256,
+     "hash": "f5b85b398b46"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Vacância e exoneração",
+     "tipo": "aula",
+     "licao": "est-vacancia",
+     "arquivo": "estatuto/08-aula-05.mp3",
+     "segundos": 51,
+     "bytes": 405838,
+     "hash": "97b0ae5b7749"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Remuneração e direitos especiais",
+     "tipo": "aula",
+     "licao": "est-direitos",
+     "arquivo": "estatuto/09-aula-06.mp3",
+     "segundos": 90,
+     "bytes": 719516,
+     "hash": "be909388a189"
+    },
+    {
+     "id": "aula-07",
+     "titulo": "Aula 7 — Licenças e ausências",
+     "tipo": "aula",
+     "licao": "est-licencas",
+     "arquivo": "estatuto/10-aula-07.mp3",
+     "segundos": 119,
+     "bytes": 950021,
+     "hash": "968f1da37b0d"
+    },
+    {
+     "id": "aula-08",
+     "titulo": "Aula 8 — Deveres, proibições e responsabilidades",
+     "tipo": "aula",
+     "licao": "est-deveres",
+     "arquivo": "estatuto/11-aula-08.mp3",
+     "segundos": 64,
+     "bytes": 510537,
+     "hash": "72f6d9cb3a31"
+    },
+    {
+     "id": "aula-09",
+     "titulo": "Aula 9 — Penalidades disciplinares",
+     "tipo": "aula",
+     "licao": "est-penalidades",
+     "arquivo": "estatuto/12-aula-09.mp3",
+     "segundos": 87,
+     "bytes": 699245,
+     "hash": "ebca9117bd11"
+    },
+    {
+     "id": "aula-10",
+     "titulo": "Aula 10 — Prescrição, sindicância e PAD",
+     "tipo": "aula",
+     "licao": "est-prescricao",
+     "arquivo": "estatuto/13-aula-10.mp3",
+     "segundos": 117,
+     "bytes": 936855,
+     "hash": "e85f8674c729"
+    }
+   ]
+  },
+  {
+   "id": "pccv",
+   "nome": "Plano de Cargos, Carreiras e Vencimentos da Câmara",
+   "curto": "PCCV (LC 235/609)",
+   "cor": "#7a4b2a",
+   "selo": "職",
+   "zip": "zip/pccv.zip",
+   "zipBytes": 8062808,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — PCCV (LC 235/609)",
+     "tipo": "podcast",
+     "arquivo": "pccv/01-podcast.mp3",
+     "segundos": 576,
+     "bytes": 4610925,
+     "hash": "a7116035c438"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — PCCV (LC 235/609)",
+     "tipo": "relampago",
+     "arquivo": "pccv/02-relampago.mp3",
+     "segundos": 173,
+     "bytes": 1381564,
+     "hash": "5523b1591722"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — PCCV (LC 235/609)",
+     "tipo": "macetes",
+     "arquivo": "pccv/03-macetes.mp3",
+     "segundos": 52,
+     "bytes": 415242,
+     "hash": "8895b15435a3"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — O que a LC 609/2026 mudou",
+     "tipo": "aula",
+     "licao": "pccv-lc609",
+     "arquivo": "pccv/04-aula-01.mp3",
+     "segundos": 89,
+     "bytes": 714083,
+     "hash": "187ba67a6fe2"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Novos cargos de nível superior (Analista Legislativo)",
+     "tipo": "aula",
+     "licao": "pccv-superior",
+     "arquivo": "pccv/05-aula-02.mp3",
+     "segundos": 101,
+     "bytes": 807915,
+     "hash": "f95176db8634"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Atribuições do Analista Legislativo – TI (§ 8º)",
+     "tipo": "aula",
+     "licao": "pccv-ti",
+     "arquivo": "pccv/06-aula-03.mp3",
+     "segundos": 113,
+     "bytes": 901746,
+     "hash": "c091b04fed27"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Atribuições dos demais Analistas (§§ 9º a 12)",
+     "tipo": "aula",
+     "licao": "pccv-outros",
+     "arquivo": "pccv/07-aula-04.mp3",
+     "segundos": 99,
+     "bytes": 789524,
+     "hash": "1c2ea348b22b"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Novos cargos de nível médio (Técnico Legislativo)",
+     "tipo": "aula",
+     "licao": "pccv-medio",
+     "arquivo": "pccv/08-aula-05.mp3",
+     "segundos": 79,
+     "bytes": 633417,
+     "hash": "9f0760e9d8dd"
+    }
+   ]
+  },
+  {
+   "id": "licitacoes",
+   "nome": "Lei de Licitações e Contratos Administrativos",
+   "curto": "Lei 14.133/2021",
+   "cor": "#3d6b4f",
+   "selo": "契",
+   "zip": "zip/licitacoes.zip",
+   "zipBytes": 13123755,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — Lei 14.133/2021",
+     "tipo": "podcast",
+     "arquivo": "licitacoes/01-podcast.mp3",
+     "segundos": 904,
+     "bytes": 7228813,
+     "hash": "df918f0d4fae"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — Lei 14.133/2021",
+     "tipo": "relampago",
+     "arquivo": "licitacoes/02-relampago.mp3",
+     "segundos": 238,
+     "bytes": 1900669,
+     "hash": "264a7a23b684"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — Lei 14.133/2021",
+     "tipo": "macetes",
+     "arquivo": "licitacoes/03-macetes.mp3",
+     "segundos": 117,
+     "bytes": 937900,
+     "hash": "06f5993220d5"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Abrangência e princípios",
+     "tipo": "aula",
+     "licao": "lic-abrangencia",
+     "arquivo": "licitacoes/04-aula-01.mp3",
+     "segundos": 121,
+     "bytes": 969665,
+     "hash": "346f95de4a3d"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Agentes públicos da licitação",
+     "tipo": "aula",
+     "licao": "lic-agentes",
+     "arquivo": "licitacoes/05-aula-02.mp3",
+     "segundos": 60,
+     "bytes": 484205,
+     "hash": "dcd61bd72658"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Fases do processo licitatório",
+     "tipo": "aula",
+     "licao": "lic-fases",
+     "arquivo": "licitacoes/06-aula-03.mp3",
+     "segundos": 99,
+     "bytes": 789106,
+     "hash": "a3cae647b953"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Modalidades e critérios de julgamento",
+     "tipo": "aula",
+     "licao": "lic-modalidades",
+     "arquivo": "licitacoes/07-aula-04.mp3",
+     "segundos": 120,
+     "bytes": 956708,
+     "hash": "be7f2edbf05c"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Contratação direta: inexigibilidade e dispensa",
+     "tipo": "aula",
+     "licao": "lic-direta",
+     "arquivo": "licitacoes/08-aula-05.mp3",
+     "segundos": 146,
+     "bytes": 1170494,
+     "hash": "cd9249987b4a"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Contratos: duração, garantias e alterações",
+     "tipo": "aula",
+     "licao": "lic-contratos",
+     "arquivo": "licitacoes/09-aula-06.mp3",
+     "segundos": 102,
+     "bytes": 820244,
+     "hash": "117acd19c3ea"
+    },
+    {
+     "id": "aula-07",
+     "titulo": "Aula 7 — Infrações, sanções e crimes",
+     "tipo": "aula",
+     "licao": "lic-sancoes",
+     "arquivo": "licitacoes/10-aula-07.mp3",
+     "segundos": 89,
+     "bytes": 713247,
+     "hash": "3e351dabb5e3"
+    },
+    {
+     "id": "aula-08",
+     "titulo": "Aula 8 — Portal Nacional de Contratações Públicas (PNCP)",
+     "tipo": "aula",
+     "licao": "lic-pncp",
+     "arquivo": "licitacoes/11-aula-08.mp3",
+     "segundos": 68,
+     "bytes": 546063,
+     "hash": "3a3871332f7d"
+    }
+   ]
+  },
+  {
+   "id": "lai",
+   "nome": "Lei de Acesso à Informação",
+   "curto": "LAI (12.527/2011)",
+   "cor": "#c4791c",
+   "selo": "開",
+   "zip": "zip/lai.zip",
+   "zipBytes": 7119547,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — LAI (12.527/2011)",
+     "tipo": "podcast",
+     "arquivo": "lai/01-podcast.mp3",
+     "segundos": 511,
+     "bytes": 4091820,
+     "hash": "db326589641e"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — LAI (12.527/2011)",
+     "tipo": "relampago",
+     "arquivo": "lai/02-relampago.mp3",
+     "segundos": 149,
+     "bytes": 1195154,
+     "hash": "74c60c262db0"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — LAI (12.527/2011)",
+     "tipo": "macetes",
+     "arquivo": "lai/03-macetes.mp3",
+     "segundos": 70,
+     "bytes": 560483,
+     "hash": "82a7a34c43b9"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Abrangência e diretrizes",
+     "tipo": "aula",
+     "licao": "lai-diretrizes",
+     "arquivo": "lai/04-aula-01.mp3",
+     "segundos": 93,
+     "bytes": 743758,
+     "hash": "c215c4078013"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Transparência ativa",
+     "tipo": "aula",
+     "licao": "lai-ativa",
+     "arquivo": "lai/05-aula-02.mp3",
+     "segundos": 61,
+     "bytes": 484623,
+     "hash": "1f531141adb9"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Pedido de acesso (transparência passiva)",
+     "tipo": "aula",
+     "licao": "lai-passiva",
+     "arquivo": "lai/06-aula-03.mp3",
+     "segundos": 70,
+     "bytes": 560692,
+     "hash": "1c657149f6dc"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Recursos",
+     "tipo": "aula",
+     "licao": "lai-recursos",
+     "arquivo": "lai/07-aula-04.mp3",
+     "segundos": 38,
+     "bytes": 304274,
+     "hash": "9f1bd3048e6e"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Classificação de sigilo e informações pessoais",
+     "tipo": "aula",
+     "licao": "lai-sigilo",
+     "arquivo": "lai/08-aula-05.mp3",
+     "segundos": 99,
+     "bytes": 790569,
+     "hash": "0d82044f0b45"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Responsabilidades",
+     "tipo": "aula",
+     "licao": "lai-responsabilidades",
+     "arquivo": "lai/09-aula-06.mp3",
+     "segundos": 50,
+     "bytes": 402912,
+     "hash": "3a48a10ebc97"
+    }
+   ]
+  },
+  {
+   "id": "lgpd",
+   "nome": "Lei Geral de Proteção de Dados Pessoais",
+   "curto": "LGPD (13.709/2018)",
+   "cor": "#a23b5a",
+   "selo": "護",
+   "zip": "zip/lgpd.zip",
+   "zipBytes": 10782464,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — LGPD (13.709/2018)",
+     "tipo": "podcast",
+     "arquivo": "lgpd/01-podcast.mp3",
+     "segundos": 749,
+     "bytes": 5989773,
+     "hash": "2b3bf0ce1bfe"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — LGPD (13.709/2018)",
+     "tipo": "relampago",
+     "arquivo": "lgpd/02-relampago.mp3",
+     "segundos": 185,
+     "bytes": 1482710,
+     "hash": "db75d0576c2b"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — LGPD (13.709/2018)",
+     "tipo": "macetes",
+     "arquivo": "lgpd/03-macetes.mp3",
+     "segundos": 105,
+     "bytes": 843650,
+     "hash": "e38f877d1dcb"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Objetivo, fundamentos e aplicação",
+     "tipo": "aula",
+     "licao": "lgpd-aplicacao",
+     "arquivo": "lgpd/04-aula-01.mp3",
+     "segundos": 98,
+     "bytes": 782628,
+     "hash": "f77282e38b77"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Conceitos essenciais",
+     "tipo": "aula",
+     "licao": "lgpd-conceitos",
+     "arquivo": "lgpd/05-aula-02.mp3",
+     "segundos": 124,
+     "bytes": 988682,
+     "hash": "61462dd63f7b"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Os 10 princípios + boa-fé",
+     "tipo": "aula",
+     "licao": "lgpd-principios",
+     "arquivo": "lgpd/06-aula-03.mp3",
+     "segundos": 79,
+     "bytes": 636133,
+     "hash": "836090968ab5"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Bases legais de tratamento (art. 7º)",
+     "tipo": "aula",
+     "licao": "lgpd-bases",
+     "arquivo": "lgpd/07-aula-04.mp3",
+     "segundos": 93,
+     "bytes": 744176,
+     "hash": "0af4c307edd7"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Direitos do titular e término do tratamento",
+     "tipo": "aula",
+     "licao": "lgpd-direitos",
+     "arquivo": "lgpd/08-aula-05.mp3",
+     "segundos": 80,
+     "bytes": 640940,
+     "hash": "04550a1971ca"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Tratamento pelo Poder Público",
+     "tipo": "aula",
+     "licao": "lgpd-publico",
+     "arquivo": "lgpd/09-aula-06.mp3",
+     "segundos": 78,
+     "bytes": 622132,
+     "hash": "6b9b568595dd"
+    },
+    {
+     "id": "aula-07",
+     "titulo": "Aula 7 — Segurança, incidentes, ANPD e sanções",
+     "tipo": "aula",
+     "licao": "lgpd-seguranca",
+     "arquivo": "lgpd/10-aula-07.mp3",
+     "segundos": 106,
+     "bytes": 847830,
+     "hash": "5d9589401d54"
+    }
+   ]
+  },
+  {
+   "id": "seguranca",
+   "nome": "Segurança da Informação",
+   "curto": "Segurança da Informação",
+   "cor": "#1f6f78",
+   "selo": "守",
+   "zip": "zip/seguranca.zip",
+   "zipBytes": 9022516,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — Segurança da Informação",
+     "tipo": "podcast",
+     "arquivo": "seguranca/01-podcast.mp3",
+     "segundos": 627,
+     "bytes": 5017600,
+     "hash": "2c6de357de65"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — Segurança da Informação",
+     "tipo": "relampago",
+     "arquivo": "seguranca/02-relampago.mp3",
+     "segundos": 192,
+     "bytes": 1539134,
+     "hash": "1c5c550c5958"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — Segurança da Informação",
+     "tipo": "macetes",
+     "arquivo": "seguranca/03-macetes.mp3",
+     "segundos": 96,
+     "bytes": 767164,
+     "hash": "a94d345cf1d8"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — A família ISO/IEC 27000",
+     "tipo": "aula",
+     "licao": "si-normas",
+     "arquivo": "seguranca/04-aula-01.mp3",
+     "segundos": 132,
+     "bytes": 1056182,
+     "hash": "eeb01e77babe"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Pilares (propriedades) da informação",
+     "tipo": "aula",
+     "licao": "si-pilares",
+     "arquivo": "seguranca/05-aula-02.mp3",
+     "segundos": 93,
+     "bytes": 742922,
+     "hash": "b15abaa0c0e3"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Ameaça, vulnerabilidade e risco",
+     "tipo": "aula",
+     "licao": "si-riscos",
+     "arquivo": "seguranca/06-aula-03.mp3",
+     "segundos": 73,
+     "bytes": 580545,
+     "hash": "9dbc272fc8d1"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Gestão de riscos (ISO 27005)",
+     "tipo": "aula",
+     "licao": "si-gestao-riscos",
+     "arquivo": "seguranca/07-aula-04.mp3",
+     "segundos": 82,
+     "bytes": 656195,
+     "hash": "a08433477a9d"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — SGSI e PDCA",
+     "tipo": "aula",
+     "licao": "si-sgsi",
+     "arquivo": "seguranca/08-aula-05.mp3",
+     "segundos": 53,
+     "bytes": 421929,
+     "hash": "513330b58297"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Medidas físicas, técnicas e organizacionais",
+     "tipo": "aula",
+     "licao": "si-medidas",
+     "arquivo": "seguranca/09-aula-06.mp3",
+     "segundos": 97,
+     "bytes": 779911,
+     "hash": "e22774bf58ee"
+    }
+   ]
+  },
+  {
+   "id": "ti-fundamentos",
+   "nome": "TI 1 — Fundamentos, Arquitetura, Sistemas Operacionais e Suporte",
+   "curto": "TI: Fundamentos e SO",
+   "cor": "#4a5568",
+   "selo": "基",
+   "zip": "zip/ti-fundamentos.zip",
+   "zipBytes": 11692885,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — TI: Fundamentos e SO",
+     "tipo": "podcast",
+     "arquivo": "ti-fundamentos/01-podcast.mp3",
+     "segundos": 794,
+     "bytes": 6351725,
+     "hash": "e1c1cff01114"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — TI: Fundamentos e SO",
+     "tipo": "relampago",
+     "arquivo": "ti-fundamentos/02-relampago.mp3",
+     "segundos": 244,
+     "bytes": 1953959,
+     "hash": "4d940917dcbd"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — TI: Fundamentos e SO",
+     "tipo": "macetes",
+     "arquivo": "ti-fundamentos/03-macetes.mp3",
+     "segundos": 119,
+     "bytes": 954827,
+     "hash": "8739cc080a34"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Arquitetura de computadores (Von Neumann)",
+     "tipo": "aula",
+     "licao": "tif-arquitetura",
+     "arquivo": "ti-fundamentos/04-aula-01.mp3",
+     "segundos": 128,
+     "bytes": 1024000,
+     "hash": "479a4ed2db44"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Representação de dados e sistemas numéricos",
+     "tipo": "aula",
+     "licao": "tif-dados",
+     "arquivo": "ti-fundamentos/05-aula-02.mp3",
+     "segundos": 90,
+     "bytes": 723278,
+     "hash": "426ad65fd3ed"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Sistemas de informação e computação",
+     "tipo": "aula",
+     "licao": "tif-si",
+     "arquivo": "ti-fundamentos/06-aula-03.mp3",
+     "segundos": 90,
+     "bytes": 721815,
+     "hash": "7a94d2b2eac2"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Windows: administração",
+     "tipo": "aula",
+     "licao": "tif-windows",
+     "arquivo": "ti-fundamentos/07-aula-04.mp3",
+     "segundos": 104,
+     "bytes": 835918,
+     "hash": "0c5d011d7127"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Linux: comandos, usuários e permissões",
+     "tipo": "aula",
+     "licao": "tif-linux",
+     "arquivo": "ti-fundamentos/08-aula-05.mp3",
+     "segundos": 116,
+     "bytes": 929123,
+     "hash": "6dd1c450593f"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Rotinas de backup e recuperação",
+     "tipo": "aula",
+     "licao": "tif-backup",
+     "arquivo": "ti-fundamentos/09-aula-06.mp3",
+     "segundos": 97,
+     "bytes": 779911,
+     "hash": "ece0ca13f717"
+    },
+    {
+     "id": "aula-07",
+     "titulo": "Aula 7 — Suporte técnico e atendimento",
+     "tipo": "aula",
+     "licao": "tif-suporte",
+     "arquivo": "ti-fundamentos/10-aula-07.mp3",
+     "segundos": 85,
+     "bytes": 682527,
+     "hash": "ab08b6ad1315"
+    }
+   ]
+  },
+  {
+   "id": "ti-programacao",
+   "nome": "TI 2 — Programação, Estruturas de Dados, Web/APIs e DevOps",
+   "curto": "TI: Programação e Web",
+   "cor": "#0e7490",
+   "selo": "程",
+   "zip": "zip/ti-programacao.zip",
+   "zipBytes": 12713788,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — TI: Programação e Web",
+     "tipo": "podcast",
+     "arquivo": "ti-programacao/01-podcast.mp3",
+     "segundos": 856,
+     "bytes": 6851186,
+     "hash": "0245347bc5c3"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — TI: Programação e Web",
+     "tipo": "relampago",
+     "arquivo": "ti-programacao/02-relampago.mp3",
+     "segundos": 255,
+     "bytes": 2043402,
+     "hash": "4f9033d9084c"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — TI: Programação e Web",
+     "tipo": "macetes",
+     "arquivo": "ti-programacao/03-macetes.mp3",
+     "segundos": 143,
+     "bytes": 1148133,
+     "hash": "10418ed07dfd"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Lógica de programação e algoritmos",
+     "tipo": "aula",
+     "licao": "tip-logica",
+     "arquivo": "ti-programacao/04-aula-01.mp3",
+     "segundos": 85,
+     "bytes": 681691,
+     "hash": "862dfaf9470e"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Complexidade, busca e ordenação",
+     "tipo": "aula",
+     "licao": "tip-complexidade",
+     "arquivo": "ti-programacao/05-aula-02.mp3",
+     "segundos": 70,
+     "bytes": 556721,
+     "hash": "a2d567ffde5c"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Estruturas de dados",
+     "tipo": "aula",
+     "licao": "tip-estruturas",
+     "arquivo": "ti-programacao/06-aula-03.mp3",
+     "segundos": 107,
+     "bytes": 857652,
+     "hash": "5c084c54aed4"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Programação orientada a objetos",
+     "tipo": "aula",
+     "licao": "tip-poo",
+     "arquivo": "ti-programacao/07-aula-04.mp3",
+     "segundos": 110,
+     "bytes": 879177,
+     "hash": "186f812d0e85"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Desenvolvimento web: HTML, CSS e JavaScript",
+     "tipo": "aula",
+     "licao": "tip-web",
+     "arquivo": "ti-programacao/08-aula-05.mp3",
+     "segundos": 126,
+     "bytes": 1009162,
+     "hash": "b89e78bf639d"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — HTTP, serviços web e APIs REST",
+     "tipo": "aula",
+     "licao": "tip-api",
+     "arquivo": "ti-programacao/09-aula-06.mp3",
+     "segundos": 143,
+     "bytes": 1142909,
+     "hash": "641a3a41fe68"
+    },
+    {
+     "id": "aula-07",
+     "titulo": "Aula 7 — Git, CI/CD e contêineres",
+     "tipo": "aula",
+     "licao": "tip-devops",
+     "arquivo": "ti-programacao/10-aula-07.mp3",
+     "segundos": 127,
+     "bytes": 1018566,
+     "hash": "f127fc4f49e8"
+    }
+   ]
+  },
+  {
+   "id": "ti-engsoft",
+   "nome": "TI 3 — Engenharia de Software",
+   "curto": "TI: Engenharia de Software",
+   "cor": "#3f6212",
+   "selo": "工",
+   "zip": "zip/ti-engsoft.zip",
+   "zipBytes": 22537883,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — TI: Engenharia de Software",
+     "tipo": "podcast",
+     "arquivo": "ti-engsoft/01-podcast.mp3",
+     "segundos": 1445,
+     "bytes": 11563258,
+     "hash": "a95a0ecf4d61"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — TI: Engenharia de Software",
+     "tipo": "relampago",
+     "arquivo": "ti-engsoft/02-relampago.mp3",
+     "segundos": 534,
+     "bytes": 4274050,
+     "hash": "4c87dc823ce3"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — TI: Engenharia de Software",
+     "tipo": "macetes",
+     "arquivo": "ti-engsoft/03-macetes.mp3",
+     "segundos": 233,
+     "bytes": 1863471,
+     "hash": "f5a3d6358ba6"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Processos e modelos de ciclo de vida",
+     "tipo": "aula",
+     "licao": "tie-processos",
+     "arquivo": "ti-engsoft/04-aula-01.mp3",
+     "segundos": 87,
+     "bytes": 696111,
+     "hash": "3c95a6199aa7"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Engenharia de requisitos",
+     "tipo": "aula",
+     "licao": "tie-requisitos",
+     "arquivo": "ti-engsoft/05-aula-02.mp3",
+     "segundos": 113,
+     "bytes": 903000,
+     "hash": "b45cde090301"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Modelagem com UML",
+     "tipo": "aula",
+     "licao": "tie-uml",
+     "arquivo": "ti-engsoft/06-aula-03.mp3",
+     "segundos": 99,
+     "bytes": 796421,
+     "hash": "0e74351be851"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Testes de software",
+     "tipo": "aula",
+     "licao": "tie-testes",
+     "arquivo": "ti-engsoft/07-aula-04.mp3",
+     "segundos": 119,
+     "bytes": 954409,
+     "hash": "a0c99e1601c5"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Manutenção, documentação e qualidade",
+     "tipo": "aula",
+     "licao": "tie-manutencao",
+     "arquivo": "ti-engsoft/08-aula-05.mp3",
+     "segundos": 87,
+     "bytes": 692976,
+     "hash": "5df518732dd1"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Metodologias ágeis: Manifesto e ágil x tradicional",
+     "tipo": "aula",
+     "licao": "tie-ageis",
+     "arquivo": "ti-engsoft/09-aula-06.mp3",
+     "segundos": 185,
+     "bytes": 1482919,
+     "hash": "ce23c26ea3b0"
+    },
+    {
+     "id": "aula-07",
+     "titulo": "Aula 7 — Scrum a fundo (Guia do Scrum 2020)",
+     "tipo": "aula",
+     "licao": "tie-scrum",
+     "arquivo": "ti-engsoft/10-aula-07.mp3",
+     "segundos": 272,
+     "bytes": 2176940,
+     "hash": "7afde6d23203"
+    },
+    {
+     "id": "aula-08",
+     "titulo": "Aula 8 — Kanban e Lean",
+     "tipo": "aula",
+     "licao": "tie-kanban",
+     "arquivo": "ti-engsoft/11-aula-08.mp3",
+     "segundos": 223,
+     "bytes": 1784267,
+     "hash": "36daa490ad1c"
+    },
+    {
+     "id": "aula-09",
+     "titulo": "Aula 9 — XP, FDD, DSDM, Crystal e agilidade em escala",
+     "tipo": "aula",
+     "licao": "tie-xp",
+     "arquivo": "ti-engsoft/12-aula-09.mp3",
+     "segundos": 172,
+     "bytes": 1378220,
+     "hash": "df972b52926b"
+    }
+   ]
+  },
+  {
+   "id": "ti-banco",
+   "nome": "TI 4 — Banco de Dados, SQL e Business Intelligence",
+   "curto": "TI: Banco de Dados e BI",
+   "cor": "#1e40af",
+   "selo": "庫",
+   "zip": "zip/ti-banco.zip",
+   "zipBytes": 10932854,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — TI: Banco de Dados e BI",
+     "tipo": "podcast",
+     "arquivo": "ti-banco/01-podcast.mp3",
+     "segundos": 737,
+     "bytes": 5895523,
+     "hash": "43fc2ee73f4e"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — TI: Banco de Dados e BI",
+     "tipo": "relampago",
+     "arquivo": "ti-banco/02-relampago.mp3",
+     "segundos": 261,
+     "bytes": 2092512,
+     "hash": "25108d5869d6"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — TI: Banco de Dados e BI",
+     "tipo": "macetes",
+     "arquivo": "ti-banco/03-macetes.mp3",
+     "segundos": 124,
+     "bytes": 993280,
+     "hash": "15cfd2f72954"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Modelagem de dados: conceitual, lógica e física",
+     "tipo": "aula",
+     "licao": "tib-modelagem",
+     "arquivo": "ti-banco/04-aula-01.mp3",
+     "segundos": 100,
+     "bytes": 802481,
+     "hash": "26113b244649"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Normalização",
+     "tipo": "aula",
+     "licao": "tib-normalizacao",
+     "arquivo": "ti-banco/05-aula-02.mp3",
+     "segundos": 79,
+     "bytes": 636551,
+     "hash": "95fea32eb698"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — SQL: comandos e categorias",
+     "tipo": "aula",
+     "licao": "tib-sql",
+     "arquivo": "ti-banco/06-aula-03.mp3",
+     "segundos": 104,
+     "bytes": 829231,
+     "hash": "67190f9f991d"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Junções, agregações e subconsultas",
+     "tipo": "aula",
+     "licao": "tib-consultas",
+     "arquivo": "ti-banco/07-aula-04.mp3",
+     "segundos": 87,
+     "bytes": 694439,
+     "hash": "46d87efcd09d"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Transações, administração, backup e recuperação",
+     "tipo": "aula",
+     "licao": "tib-transacoes",
+     "arquivo": "ti-banco/08-aula-05.mp3",
+     "segundos": 129,
+     "bytes": 1029642,
+     "hash": "63a5b404f678"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Data warehouse, BI e análise de dados",
+     "tipo": "aula",
+     "licao": "tib-bi",
+     "arquivo": "ti-banco/09-aula-06.mp3",
+     "segundos": 140,
+     "bytes": 1116995,
+     "hash": "682467eef6b2"
+    }
+   ]
+  },
+  {
+   "id": "ti-redes",
+   "nome": "TI 5 — Redes de Computadores",
+   "curto": "TI: Redes",
+   "cor": "#c2410c",
+   "selo": "網",
+   "zip": "zip/ti-redes.zip",
+   "zipBytes": 12449996,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — TI: Redes",
+     "tipo": "podcast",
+     "arquivo": "ti-redes/01-podcast.mp3",
+     "segundos": 823,
+     "bytes": 6581812,
+     "hash": "d8a20cebfecd"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — TI: Redes",
+     "tipo": "relampago",
+     "arquivo": "ti-redes/02-relampago.mp3",
+     "segundos": 268,
+     "bytes": 2143294,
+     "hash": "9d5b9717468d"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — TI: Redes",
+     "tipo": "macetes",
+     "arquivo": "ti-redes/03-macetes.mp3",
+     "segundos": 139,
+     "bytes": 1110099,
+     "hash": "6c58cb3cd80e"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Modelo OSI e TCP/IP",
+     "tipo": "aula",
+     "licao": "tir-osi",
+     "arquivo": "ti-redes/04-aula-01.mp3",
+     "segundos": 126,
+     "bytes": 1007490,
+     "hash": "0cbe862b06b0"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — TCP, UDP e portas",
+     "tipo": "aula",
+     "licao": "tir-transporte",
+     "arquivo": "ti-redes/05-aula-02.mp3",
+     "segundos": 123,
+     "bytes": 987637,
+     "hash": "7aa225b532ff"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Endereçamento IPv4, sub-redes e IPv6",
+     "tipo": "aula",
+     "licao": "tir-ip",
+     "arquivo": "ti-redes/06-aula-03.mp3",
+     "segundos": 180,
+     "bytes": 1442168,
+     "hash": "7ffb2d038216"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Equipamentos e topologias",
+     "tipo": "aula",
+     "licao": "tir-equipamentos",
+     "arquivo": "ti-redes/07-aula-04.mp3",
+     "segundos": 88,
+     "bytes": 706768,
+     "hash": "6eb2f836d31e"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Cabeamento estruturado, Ethernet e Wi-Fi",
+     "tipo": "aula",
+     "licao": "tir-cabeamento",
+     "arquivo": "ti-redes/08-aula-05.mp3",
+     "segundos": 116,
+     "bytes": 928914,
+     "hash": "4682bd1b85f4"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Serviços de rede e ambiente cliente-servidor",
+     "tipo": "aula",
+     "licao": "tir-servicos",
+     "arquivo": "ti-redes/09-aula-06.mp3",
+     "segundos": 99,
+     "bytes": 796421,
+     "hash": "3a68f728179d"
+    }
+   ]
+  },
+  {
+   "id": "ti-seguranca",
+   "nome": "TI 7 — Segurança: Criptografia, Acessos, Ataques e Incidentes",
+   "curto": "TI: Segurança técnica",
+   "cor": "#be123c",
+   "selo": "鍵",
+   "zip": "zip/ti-seguranca.zip",
+   "zipBytes": 11484281,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — TI: Segurança técnica",
+     "tipo": "podcast",
+     "arquivo": "ti-seguranca/01-podcast.mp3",
+     "segundos": 785,
+     "bytes": 6281090,
+     "hash": "aedbdfbc19bf"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — TI: Segurança técnica",
+     "tipo": "relampago",
+     "arquivo": "ti-seguranca/02-relampago.mp3",
+     "segundos": 253,
+     "bytes": 2022922,
+     "hash": "00446c5f5c64"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — TI: Segurança técnica",
+     "tipo": "macetes",
+     "arquivo": "ti-seguranca/03-macetes.mp3",
+     "segundos": 115,
+     "bytes": 922226,
+     "hash": "9de7cb4c11ec"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Criptografia simétrica, assimétrica e hash",
+     "tipo": "aula",
+     "licao": "tis-cripto",
+     "arquivo": "ti-seguranca/04-aula-01.mp3",
+     "segundos": 116,
+     "bytes": 932048,
+     "hash": "bb4314f9f584"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Assinatura digital, certificado e ICP-Brasil",
+     "tipo": "aula",
+     "licao": "tis-certificado",
+     "arquivo": "ti-seguranca/05-aula-02.mp3",
+     "segundos": 126,
+     "bytes": 1005609,
+     "hash": "33516fa8b7d9"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Gestão de identidades e acessos (IAM)",
+     "tipo": "aula",
+     "licao": "tis-acesso",
+     "arquivo": "ti-seguranca/06-aula-03.mp3",
+     "segundos": 101,
+     "bytes": 808333,
+     "hash": "c570c32bc2b7"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Firewall, IDS/IPS, VPN e monitoramento",
+     "tipo": "aula",
+     "licao": "tis-perimetro",
+     "arquivo": "ti-seguranca/07-aula-04.mp3",
+     "segundos": 99,
+     "bytes": 792032,
+     "hash": "d00b65b8b199"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Malware e ataques comuns",
+     "tipo": "aula",
+     "licao": "tis-ataques",
+     "arquivo": "ti-seguranca/08-aula-05.mp3",
+     "segundos": 109,
+     "bytes": 875624,
+     "hash": "3e1b301b3b0a"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Vulnerabilidades, testes de intrusão e resposta a incidentes",
+     "tipo": "aula",
+     "licao": "tis-vulnerabilidades",
+     "arquivo": "ti-seguranca/09-aula-06.mp3",
+     "segundos": 126,
+     "bytes": 1010625,
+     "hash": "bc405e8eb144"
+    }
+   ]
+  },
+  {
+   "id": "ti-governanca",
+   "nome": "TI 6 — Governança, Gestão de TI e Contratações de TI",
+   "curto": "TI: Governança e Contratações",
+   "cor": "#854d0e",
+   "selo": "治",
+   "zip": "zip/ti-governanca.zip",
+   "zipBytes": 10655963,
+   "faixas": [
+    {
+     "id": "podcast",
+     "titulo": "Podcast — TI: Governança e Contratações",
+     "tipo": "podcast",
+     "arquivo": "ti-governanca/01-podcast.mp3",
+     "segundos": 715,
+     "bytes": 5722070,
+     "hash": "1fa820b752d6"
+    },
+    {
+     "id": "relampago",
+     "titulo": "Revisão relâmpago — TI: Governança e Contratações",
+     "tipo": "relampago",
+     "arquivo": "ti-governanca/02-relampago.mp3",
+     "segundos": 261,
+     "bytes": 2090631,
+     "hash": "8406b48a1ee1"
+    },
+    {
+     "id": "macetes",
+     "titulo": "Macetes e pegadinhas — TI: Governança e Contratações",
+     "tipo": "macetes",
+     "arquivo": "ti-governanca/03-macetes.mp3",
+     "segundos": 111,
+     "bytes": 887954,
+     "hash": "544d7863767d"
+    },
+    {
+     "id": "aula-01",
+     "titulo": "Aula 1 — Governança x gestão de TI e COBIT",
+     "tipo": "aula",
+     "licao": "tig-governanca",
+     "arquivo": "ti-governanca/04-aula-01.mp3",
+     "segundos": 100,
+     "bytes": 797466,
+     "hash": "5d780d4a8011"
+    },
+    {
+     "id": "aula-02",
+     "titulo": "Aula 2 — Planejamento estratégico e PDTI",
+     "tipo": "aula",
+     "licao": "tig-planejamento",
+     "arquivo": "ti-governanca/05-aula-02.mp3",
+     "segundos": 91,
+     "bytes": 726413,
+     "hash": "ad42f0392310"
+    },
+    {
+     "id": "aula-03",
+     "titulo": "Aula 3 — Gestão de serviços: ITIL 4",
+     "tipo": "aula",
+     "licao": "tig-itil",
+     "arquivo": "ti-governanca/06-aula-03.mp3",
+     "segundos": 107,
+     "bytes": 854517,
+     "hash": "1a7d34a713b9"
+    },
+    {
+     "id": "aula-04",
+     "titulo": "Aula 4 — Gestão de projetos (PMBOK e ágil)",
+     "tipo": "aula",
+     "licao": "tig-projetos",
+     "arquivo": "ti-governanca/07-aula-04.mp3",
+     "segundos": 82,
+     "bytes": 654315,
+     "hash": "d192d39c9112"
+    },
+    {
+     "id": "aula-05",
+     "titulo": "Aula 5 — Gestão de riscos e indicadores",
+     "tipo": "aula",
+     "licao": "tig-riscos",
+     "arquivo": "ti-governanca/08-aula-05.mp3",
+     "segundos": 93,
+     "bytes": 746475,
+     "hash": "8cbdd54979d2"
+    },
+    {
+     "id": "aula-06",
+     "titulo": "Aula 6 — Contratação de soluções de TI na Administração Pública",
+     "tipo": "aula",
+     "licao": "tig-contratacao",
+     "arquivo": "ti-governanca/09-aula-06.mp3",
+     "segundos": 140,
+     "bytes": 1122220,
+     "hash": "f4c40d5afdb0"
+    }
+   ]
+  }
+ ],
+ "zipTodos": "zip/todos.zip",
+ "zipTodosBytes": 185889714
+}

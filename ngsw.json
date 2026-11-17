@@ -1,0 +1,181 @@
+{
+  "configVersion": 1,
+  "timestamp": 1794913731001,
+  "index": "/dojo-camara-2026/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/dojo-camara-2026/chunk-2D3GIIVN.js",
+        "/dojo-camara-2026/chunk-2HRIH7LI.js",
+        "/dojo-camara-2026/chunk-5DHWKMYQ.js",
+        "/dojo-camara-2026/chunk-6S2LHSKD.js",
+        "/dojo-camara-2026/chunk-77GKFYQU.js",
+        "/dojo-camara-2026/chunk-AXC2B73X.js",
+        "/dojo-camara-2026/chunk-BEGVC3EN.js",
+        "/dojo-camara-2026/chunk-D2RY76N6.js",
+        "/dojo-camara-2026/chunk-DKFJXOSV.js",
+        "/dojo-camara-2026/chunk-ELFAG6QS.js",
+        "/dojo-camara-2026/chunk-ES4NNUIC.js",
+        "/dojo-camara-2026/chunk-FLJVAYTQ.js",
+        "/dojo-camara-2026/chunk-FOQ7K4SD.js",
+        "/dojo-camara-2026/chunk-FS7JWYSV.js",
+        "/dojo-camara-2026/chunk-G4Q445BL.js",
+        "/dojo-camara-2026/chunk-IEJZNBOG.js",
+        "/dojo-camara-2026/chunk-IWQRULVL.js",
+        "/dojo-camara-2026/chunk-KAMPBXAX.js",
+        "/dojo-camara-2026/chunk-MAEPAKJD.js",
+        "/dojo-camara-2026/chunk-MTGNKVAU.js",
+        "/dojo-camara-2026/chunk-PA3HW724.js",
+        "/dojo-camara-2026/chunk-PO2USVTI.js",
+        "/dojo-camara-2026/chunk-QE3BF5DX.js",
+        "/dojo-camara-2026/chunk-QVX373IU.js",
+        "/dojo-camara-2026/chunk-RGFBNERX.js",
+        "/dojo-camara-2026/chunk-RSOQT2IY.js",
+        "/dojo-camara-2026/chunk-SIMVLY7Q.js",
+        "/dojo-camara-2026/chunk-TRKD6TPJ.js",
+        "/dojo-camara-2026/chunk-VQGQ37V5.js",
+        "/dojo-camara-2026/chunk-VU2GT4JP.js",
+        "/dojo-camara-2026/chunk-WY3RMZWL.js",
+        "/dojo-camara-2026/chunk-XAZTLTD4.js",
+        "/dojo-camara-2026/chunk-YCMT4H2H.js",
+        "/dojo-camara-2026/chunk-YNC7RVHT.js",
+        "/dojo-camara-2026/chunk-YVIIXSWY.js",
+        "/dojo-camara-2026/chunk-YWF25BO7.js",
+        "/dojo-camara-2026/chunk-ZJLZW4F5.js",
+        "/dojo-camara-2026/favicon.svg",
+        "/dojo-camara-2026/index.html",
+        "/dojo-camara-2026/main-7J5PH5SZ.js",
+        "/dojo-camara-2026/manifest.webmanifest",
+        "/dojo-camara-2026/styles-JLXL7YCT.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "recursos",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/dojo-camara-2026/icons/icone-192.png",
+        "/dojo-camara-2026/icons/icone-512.png"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "fontes",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
+        "https:\\/\\/fonts\\.gstatic\\.com\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "catalogo-de-audios",
+      "patterns": [
+        "\\/audio\\/catalogo\\.json"
+      ],
+      "strategy": "freshness",
+      "maxSize": 2,
+      "maxAge": 2592000000,
+      "timeoutMs": 4000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    },
+    {
+      "name": "catalogo-de-videos",
+      "patterns": [
+        "\\/video\\/catalogo\\.json"
+      ],
+      "strategy": "freshness",
+      "maxSize": 2,
+      "maxAge": 2592000000,
+      "timeoutMs": 4000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/dojo-camara-2026/chunk-2D3GIIVN.js": "7307d3b08d20f341bc5f55dd53efc96aed70bdb4",
+    "/dojo-camara-2026/chunk-2HRIH7LI.js": "88e5e2fde6c35bfaf3f5462887a02281df17d8b6",
+    "/dojo-camara-2026/chunk-5DHWKMYQ.js": "598560ec3b9629a7e3c7686296bc92c9f12edde0",
+    "/dojo-camara-2026/chunk-6S2LHSKD.js": "5f84aef61f6ff835837da823397a595276d274e1",
+    "/dojo-camara-2026/chunk-77GKFYQU.js": "6e90c5a67ffee20a9b79dd957ecc58b61a299e02",
+    "/dojo-camara-2026/chunk-AXC2B73X.js": "81dc15ae8b7012264ebfe1fa65ffe33d6ba86c76",
+    "/dojo-camara-2026/chunk-BEGVC3EN.js": "f7ca1f8b03317bd7ec11a714455beaa4d74f0a41",
+    "/dojo-camara-2026/chunk-D2RY76N6.js": "3367da34c511e29930a2455f5e05e4bd0ebc2757",
+    "/dojo-camara-2026/chunk-DKFJXOSV.js": "3325256d8a350af4eb1b16094ad65174cdf236b2",
+    "/dojo-camara-2026/chunk-ELFAG6QS.js": "2e2e16dff3bad32479f1ca25f0af8306727abfae",
+    "/dojo-camara-2026/chunk-ES4NNUIC.js": "c52200121fdb7049fbee4c8ba2a1dae277422186",
+    "/dojo-camara-2026/chunk-FLJVAYTQ.js": "e749ccb2c7c95fc2399962f7009792e91f3e840c",
+    "/dojo-camara-2026/chunk-FOQ7K4SD.js": "02cec540b7e39a5341fe261b4d287557795dcc6f",
+    "/dojo-camara-2026/chunk-FS7JWYSV.js": "6a1ea5e2df9b2d9287dba2929889dc1a7f25341a",
+    "/dojo-camara-2026/chunk-G4Q445BL.js": "df48e1e47e9b783534a46d8e727aef47a33f29ba",
+    "/dojo-camara-2026/chunk-IEJZNBOG.js": "eb86f758788d1b3a4c68b83537916ca6c4af7231",
+    "/dojo-camara-2026/chunk-IWQRULVL.js": "e66a038eda013dd072be17a0d3c38aeaf2a0134c",
+    "/dojo-camara-2026/chunk-KAMPBXAX.js": "99c76bf60bfdeb582deaba0e90d3aeeeed9542f1",
+    "/dojo-camara-2026/chunk-MAEPAKJD.js": "0fa0335363df41ee169c261da6bfb5175d5d5488",
+    "/dojo-camara-2026/chunk-MTGNKVAU.js": "98c4b390a84de20b952a629e2a2c68f329bfb144",
+    "/dojo-camara-2026/chunk-PA3HW724.js": "33ecbb329a17b079f328c96811e56902877fa236",
+    "/dojo-camara-2026/chunk-PO2USVTI.js": "fd60dbc5c7ece6e02c185bde822e63ad9bc0ace3",
+    "/dojo-camara-2026/chunk-QE3BF5DX.js": "f7c42a4c555ea55a2443928b0d152e147904f8ad",
+    "/dojo-camara-2026/chunk-QVX373IU.js": "9c939172e200f1a1a17fe45bfc0aa0c383b4bd89",
+    "/dojo-camara-2026/chunk-RGFBNERX.js": "62ca4e7fcddf2916329e71cad0968f7548c56a08",
+    "/dojo-camara-2026/chunk-RSOQT2IY.js": "bb0b3c0969c8cab097f4318d5787f98bf397deaf",
+    "/dojo-camara-2026/chunk-SIMVLY7Q.js": "a9d8871b434ccd81f5cf1d6e929a73aaa6c564f0",
+    "/dojo-camara-2026/chunk-TRKD6TPJ.js": "18b714b8af1b1973d464a883bc01fc91f570179e",
+    "/dojo-camara-2026/chunk-VQGQ37V5.js": "051c2a5a1aa5235fb20daa59101c6c642149168c",
+    "/dojo-camara-2026/chunk-VU2GT4JP.js": "9fb410e2df780e3fa45d50046605b2a47a6e369c",
+    "/dojo-camara-2026/chunk-WY3RMZWL.js": "6a85b9b8f7d70c9d6867f0c1b68282ff4b100139",
+    "/dojo-camara-2026/chunk-XAZTLTD4.js": "ff1f5d397d8f25dc35723e1fb4eafbb3e18a717e",
+    "/dojo-camara-2026/chunk-YCMT4H2H.js": "a2597d78f874ff2b310840ad0de56b8240ea8670",
+    "/dojo-camara-2026/chunk-YNC7RVHT.js": "4aa99acd731c1638092313d25d884609aabc813b",
+    "/dojo-camara-2026/chunk-YVIIXSWY.js": "9f51f902fb7ff41c5f3886991e3dac7e5e9c8078",
+    "/dojo-camara-2026/chunk-YWF25BO7.js": "e2d26364965883e58ce9bd006deedd34680c6d76",
+    "/dojo-camara-2026/chunk-ZJLZW4F5.js": "499c2b68a9eb668e5a06b08d0917273f8abb50e6",
+    "/dojo-camara-2026/favicon.svg": "d0ea62af5073f840c4c4a07e6f9f7934a1ec53a9",
+    "/dojo-camara-2026/icons/icone-192.png": "22202845a0afa8298756c39b9950db539a8386a3",
+    "/dojo-camara-2026/icons/icone-512.png": "5077aaae0c4edb14cc68fe94db8183aebd916351",
+    "/dojo-camara-2026/index.html": "b79745e676759bee006357daac9b4d31b6f41d90",
+    "/dojo-camara-2026/main-7J5PH5SZ.js": "293b650cb4fe962fddda54cd1195c4dbc0ed3a95",
+    "/dojo-camara-2026/manifest.webmanifest": "ad365083b7024a17911ad253662f7072a83d4e73",
+    "/dojo-camara-2026/styles-JLXL7YCT.css": "2355977a7f12b15b76a7878d2ee9c46b467f857b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/audio\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/video\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

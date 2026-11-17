@@ -1,0 +1,1 @@
+import{Da as n}from"./chunk-RGFBNERX.js";var a=class e{transform(r){return r?r.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>"):""}static \u0275fac=function(t){return new(t||e)};static \u0275pipe=n({name:"negrito",type:e,pure:!0})};export{a};
